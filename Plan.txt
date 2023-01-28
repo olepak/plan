@@ -1,0 +1,112 @@
+!ONGOING
+https://www.theodinproject.com/lessons/foundations-growing-and-shrinking
+
+
+ &PENDING
+Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
+positioning
+  -filters https://developer.mozilla.org/en-US/docs/Web/CSS/filter
+  -pseudoclasses
+  -pseudo elements
+     https://www.youtube.com/watch?v=OtBpgtqrjyo
+     Kevin Powell before and after https://www.youtube.com/watch?v=zGiirUiWslI
+Жека Андриканич - css
+ Урок 8 https://www.youtube.com/watch?v=cbbER36qRIE&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr&index=12
+ Playlist https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr
+
+
+   Convert A Figma Design To A Real Website (HTML) https://www.youtube.com/watch?v=q_YNq0j_QfE
+ Turning a Figma Design into a Real Website using HTML and CSS https://www.youtube.com/watch?v=zFxG1sglWBI
+Design https://www.youtube.com/watch?v=KYFwcIRx16g
+How to Convert Photoshop PSD to HTML code - Part 1/6 https://www.youtube.com/watch?v=W9uSI9SZEJI
+
+
+ From idea to layout: How I approach designing a site https://www.youtube.com/watch?v=KYFwcIRx16g
+Site Layouts
+  https://www.youtube.com/watch?v=TAJnJCry6_4
+  https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout
+  https://www.youtube.com/watch?v=DJtcBoHEgdk
+
+ Kevin Powel - from design to code
+   Part one https://www.youtube.com/watch?v=hQCRU7hZldE&t=445s
+   Part two https://www.youtube.com/watch?v=CBEhJN0KcJA
+
+Layout examples:
+  Жека Андріканич Адаптивна верстка сайту з нуля  -https://www.youtube.com/watch?v=g30rt4PrcfU
+    Жека Андриканич Адаптивная верстка сайта с нуля для начинающих. Объяснение действий. HTML CSS    -https://www.youtube.com/watch?v=sohdv21BVNI&t=8411s
+    Адаптивная HTML-верстка макета из Figma с подробным объяснением. Советы от профи. HTML SCSS GULP.  https://www.youtube.com/watch?v=vkq7ckCkvjY
+  От 0 до 1 Верстка сайта для новичков. ч.1 https://www.youtube.com/watch?v=eK96OuHEEl4
+ Kevin Powel - Build a responsive website with HTML & CSS  https://www.youtube.com/watch?v=h3bTwCqX4ns
+
+  Webdev Video
+
+   Custom properties https://www.youtube.com/playlist?list=PL4-IK0AVhVjOT2KBB5TSbD77OmfHvtqUi
+ tinypng
+ google, firefox devtools
+   crash course  youtube.com/watch?v=x4q86IjJFag
+   https://www.youtube.com/watch?v=58_AqypXjG4&t=90s
+   https://firefox-source-docs.mozilla.org/devtools-user/
+  Improving load performance https://www.youtube.com/watch?v=5fLW5Q5ODiE
+
+VIM
+SVG
+Udemy - WebDesign
+W3School HTML accesssibility https://www.w3schools.com/accessibility/
+Flexbox guide https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Минин flexbox https://vladilen.notion.site/CSS-f650a04f167346c9a75ed833e360ea4e
+Gulp, Webpack
+
+
+
+#AUXILARY INFO
+Full stack open - MERN, only after Odin or freecodecamp
+What is a Lazy load
+Specificity  https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+Web Dev Simplified Youtube channel
+Kevin Powell Youtube chanel  HTML& CSS core concepts https://www.youtube.com/playlist?list=PL4-IK0AVhVjP27yZLwW-gkPggRps0CCnP
+https://www.youtube.com/watch?v=LPdvfRzVoAg - как искать работу в IT
+50 CSS best practices
+Good practise responsive typography https://zellwk.com/blog/responsive-typography/
+https://habr.com/ru/post/280125/ rem vs em
+
+ Sequence acc. Фрілансер по життю:
+  +display - none, inline, inline block etc.
+  +background properties (size/ clip etc.)
+  +Typography
+  -positioning
+  -filters https://developer.mozilla.org/en-US/docs/Web/CSS/filter
+  -pseudoclasses
+  -pseudo elements
+     https://www.youtube.com/watch?v=OtBpgtqrjyo
+     Kevin Powell before and after https://www.youtube.com/watch?v=zGiirUiWslI
+
+  -Media queries
+  -BEM
+  -FLEX
+  -GRID
+  -Preprocessors and builders
+  -css layers
+  -transition+animation + prototyping in figma
+  -transform (compare to positioning, combination with animation, negative margins )
+  at-rules
+    -HTML forms
+  -Adaptivity
+     Адаптивные изображения. Практические приемы верстки картинок. CSS object-fit HTML picture. https://www.youtube.com/watch?v=nTtuiBXKp88&t=45s
+     Адаптивное (отзывчивое) CSS свойство. Как быстро адаптировать элементы. https://www.youtube.com/watch?v=eaOAY0vIB4U&t=27s
+     Адаптивный шрифт. Пример реализации отзывчивого (резинового) шрифта на CSS + SCSS миксин https://www.youtube.com/watch?v=HJZP5QsrpXs&t=8s
+     Simple solutions to responsive typography https://www.youtube.com/watch?v=wARbgs5Fmuw
+     3 modern CSS techniques for responsive design https://www.youtube.com/watch?v=VsNAuGkCpQU
+     Kevin Powell adaptivity mistake https://www.youtube.com/watch?v=0ohtVzCSHqs&t=8s
+  -CSS Frameworks (Bootstrap, Tailwind CSS etc.) див. план Мінін
+  -Javascript:
+    freeCodeCamp
+    (синтаксис, переменные, типы данных, строки, числа, условия, циклы, основы функций, DOM, события)
+  Верстаем + Codewars
+
+  -Semantics + accessibility
+  -Optimisation, advanced tags (video+audio)
+  -Portfolio
+  - Advanced Javascript
+  - JS Frameworks (React,Vue)
+
+

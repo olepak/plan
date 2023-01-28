@@ -1,0 +1,37 @@
+ctrl+AC - collapse all
+ctrl+AA - select all
+ctrl+KU - delete comment wrap
+ctrl shift-FO focus to outline
+ctrl shift-FE focus on editor
+ctrl shift-FX - focus on explorer
+ctrl-f4 - close editor
+ctrl-D - add next occurence to the selection
+Ctrl+Shift+. - open breadcrumb
+Ctrl+Shift+L - select all occurences
+ctrl+enter - put a line below
+ctrl+shift+enter - put a line above
+alt+1,2,3 - switch focus between open explorers
+ctrl+alt+right(left) - jump to next tag
+ctrl+X - delete line
+ctrl+G go to line
+Ctrl+Shift+M - open errors and warnings
+ctrl+KS - hot keys
+ctrl+end - go to the end of file
+ctrl+home - go to the beginning of the file
+alt-enter select all found occurences
+ctrl+H - find and /or replace
+alt+s - save without formating
+ctrlK0(zero) - collaps all
+ctrl+shift+[ - collaps selected121
+ctrl KJ - uncollaps all
+ctrl+shift+] - ucollaps selected
+ctrl+shift SN - insert snippet
+ctrl+shift G - go to matching pair
+Alt + left arrow - back to reference
+ctrl+alt+click, ctrl+T+ENTER- open definition in new editor
+ctrl+K, M - choose language of the new file
+End,home -add cursor to the ends of line
+ctrl+BO - select(balance) outward
+ctrl+BI - select(balance) inward
+
+
