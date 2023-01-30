@@ -1,6 +1,6 @@
 !ONGOING
 https://www.theodinproject.com/lessons/foundations-growing-and-shrinking#assignment
-some test words
+scrim
 
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
