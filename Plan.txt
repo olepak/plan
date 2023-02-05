@@ -1,6 +1,6 @@
 ONGOING
-https://youtu.be/fm3dSg4cxRI?t=719
-https://www.theodinproject.com/lessons/foundations-axes
+ https://www.theodinproject.com/lessons/foundations-alignment#assignment
+  1 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
 positioning
