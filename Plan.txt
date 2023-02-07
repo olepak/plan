@@ -1,6 +1,6 @@
 ONGOING
  https://www.theodinproject.com/lessons/foundations-alignment#assignment
-  https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/#wrapping-14
+ 2 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
 positioning
