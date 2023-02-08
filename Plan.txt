@@ -1,6 +1,6 @@
 ONGOING
  https://www.theodinproject.com/lessons/foundations-alignment#assignment
-  https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-related-properties
+
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
 positioning
