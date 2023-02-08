@@ -1,5 +1,6 @@
 ONGOING
  https://www.theodinproject.com/lessons/foundations-alignment#assignment
+  02-flex
 
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
