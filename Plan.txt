@@ -1,5 +1,5 @@
 ONGOING
- https://www.theodinproject.com/lessons/foundations-landing-page
+ https://www.theodinproject.com/lessons/foundations-landing-page#assignment
 
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
