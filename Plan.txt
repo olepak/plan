@@ -1,7 +1,5 @@
 ONGOING
- https://www.theodinproject.com/lessons/foundations-fundamentals-part-1#numbers
- https://javascript.info/operators#type-conversions
-
+https://www.theodinproject.com/lessons/foundations-fundamentals-part-1
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
 positioning
