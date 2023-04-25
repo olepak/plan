@@ -1,7 +1,7 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-1
   https://www.theodinproject.com/lessons/foundations-fundamentals-part-1#numbers
-   https://javascript.info/operators
+   https://javascript.info/operators#operator-precedence
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
 positioning
