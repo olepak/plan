@@ -1,6 +1,6 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-2
- https://javascript.info/types#the-null-value
+  https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings#concatenating_strings
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
 positioning
