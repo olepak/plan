@@ -1,6 +1,6 @@
 ONGOING
-https://www.theodinproject.com/lessons/foundations-fundamentals-part-2
-  https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings#concatenating_strings
+https://www.theodinproject.com/lessons/foundations-fundamentals-part-2#strings
+  https://www.w3schools.com/js/js_string_methods.asp  Converting to Upper and Lower Case
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
 positioning
