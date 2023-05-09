@@ -1,6 +1,6 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-2#conditionals
- http://javascript.info/logical-operators
+ https://javascript.info/logical-operators#check-the-range-outside
 
 
 
