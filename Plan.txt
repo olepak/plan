@@ -1,6 +1,6 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-2#conditionals
-  https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
+  https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals#else_if
 
 
 
