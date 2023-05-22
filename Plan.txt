@@ -1,7 +1,6 @@
 ONGOING
-https://www.theodinproject.com/lessons/foundations-fundamentals-part-2#additional-resources
- https://www.youtube.com/watch?v=vgmwEiT1wzc&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD&index=13
- dd
+https://www.theodinproject.com/lessons/foundations-javascript-developer-tools
+
 
 
  &PENDING
