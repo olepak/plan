@@ -1,6 +1,6 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-javascript-developer-tools
- https://developer.chrome.com/docs/devtools/javascript/breakpoints/
+ https://developer.chrome.com/docs/devtools/console/
 
 
 
