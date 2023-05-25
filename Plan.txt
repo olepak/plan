@@ -1,6 +1,5 @@
 ONGOING
-https://www.theodinproject.com/lessons/foundations-javascript-developer-tools
- https://developer.chrome.com/docs/devtools/console/
+https://www.theodinproject.com/lessons/foundations-fundamentals-part-3
 
 
 
