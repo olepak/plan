@@ -1,5 +1,6 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-3
+ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions#anonymous_functions_and_arrow_functions
 
 
 
