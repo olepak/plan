@@ -1,7 +1,7 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-3
- https://javascript.info/function-basics#local-variables
-
+ https://javascript.info/function-basics#returning-a-value
+  https://javascript.info/nullish-coalescing-operator
 
 
  &PENDING
