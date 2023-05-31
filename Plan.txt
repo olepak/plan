@@ -1,6 +1,6 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-3
- https://javascript.info/function-basics#returning-a-value
+ https://javascript.info/function-basics#rewrite-the-function-using-or
 
 
  &PENDING
