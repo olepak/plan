@@ -1,7 +1,7 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-3
- https://javascript.info/function-basics#rewrite-the-function-using-or
-
+ 5:
+ http://javascript.info/function-expressions
 
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
