@@ -1,7 +1,7 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-3
  5:
- https://javascript.info/function-expressions#function-is-a-value
+ https://javascript.info/arrow-functions-basics
 
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
