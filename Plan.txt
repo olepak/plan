@@ -1,5 +1,5 @@
 ONGOING
-https://www.theodinproject.com/lessons/foundations-problem-solving
+https://www.theodinproject.com/lessons/foundations-problem-solving#assignment
 
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
