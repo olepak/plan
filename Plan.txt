@@ -1,5 +1,4 @@
 ONGOING
- debug
  https://www.theodinproject.com/lessons/foundations-clean-code
  &PENDING
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
