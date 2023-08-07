@@ -1,4 +1,7 @@
 ONGOING
+ copy line down find out
+ write a script with a callback function
+
  debugging
    https://youtu.be/-q1z8BPFItw?t=429
  https://www.theodinproject.com/lessons/foundations-clean-code
