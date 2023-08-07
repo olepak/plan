@@ -1,5 +1,4 @@
 ONGOING
- copy line down find out
  write a script with a callback function
 
  debugging
