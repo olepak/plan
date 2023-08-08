@@ -1,6 +1,4 @@
 ONGOING
- debugging
-   https://youtu.be/-q1z8BPFItw?t=3352
    eslint in visual studio code
  https://www.theodinproject.com/lessons/foundations-clean-code
  &PENDING
