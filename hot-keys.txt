@@ -33,5 +33,6 @@ ctrl+K, M - choose language of the new file
 End,home -add cursor to the ends of line
 ctrl+BO - select(balance) outward
 ctrl+BI - select(balance) inward
-
+ctrl or shift + F6 - focus on main page in chrome
+F6 - focus back on devtools
 
