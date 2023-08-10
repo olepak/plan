@@ -1,6 +1,8 @@
 ONGOING
- https://www.theodinproject.com/lessons/foundations-installing-node-js
+https://www.theodinproject.com/lessons/foundations-clean-code
+     https://www.w3schools.com/js/js_arrays.asp  Looping array elements
  &PENDING
+
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
 positioning:
   -filters https://developer.mozilla.org/en-US/docs/Web/CSS/filter
