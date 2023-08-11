@@ -1,6 +1,6 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
-     https://www.w3schools.com/js/js_arrays.asp  Looping array elements
+     https://www.w3schools.com/js/js_array_methods.asp
  &PENDING
 
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
