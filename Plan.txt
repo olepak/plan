@@ -1,5 +1,5 @@
 ONGOING
-https://www.theodinproject.com/lessons/foundations-clean-code
+https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
      https://www.w3schools.com/js/js_arrays.asp  Looping array elements
  &PENDING
 
