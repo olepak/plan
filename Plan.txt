@@ -1,6 +1,7 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#loops
+     https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#map_and_filter
  &PENDING
 
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
