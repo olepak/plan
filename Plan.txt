@@ -1,7 +1,10 @@
 ONGOING
+type coercion
+ https://www.youtube.com/watch?v=GKJh3vdat8A
+
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#loops
-      https://javascript.info/while-for#summary
+      https://javascript.info/while-for#repeat-until-the-input-is-correct
 
  &PENDING
 
