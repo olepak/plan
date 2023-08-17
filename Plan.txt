@@ -4,7 +4,7 @@ JavaScript: Understanding the Weird Parts - The First 3.5 Hours
 
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#loops
-      https://javascript.info/while-for#repeat-until-the-input-is-correct
+      https://javascript.info/while-for#output-prime-numbers
 
  &PENDING
 
