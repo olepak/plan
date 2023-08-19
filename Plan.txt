@@ -4,7 +4,7 @@ JavaScript: Understanding the Weird Parts - The First 3.5 Hours
 
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#test-driven-development
-
+     02
  &PENDING
 
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
