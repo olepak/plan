@@ -1,10 +1,12 @@
 ONGOING
-JavaScript: Understanding the Weird Parts - The First 3.5 Hours
   https://youtu.be/Bv_5Zv5c-Ts?t=370
 
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#test-driven-development
-     02
+
+JavaScript: Understanding the Weird Parts - The First 3.5 Hours   https://youtu.be/Bv_5Zv5c-Ts?t=370
+
+  string + array methods
  &PENDING
 
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
