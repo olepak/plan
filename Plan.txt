@@ -1,7 +1,7 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#test-driven-development
-
+             04
 https://www.youtube.com/watch?v=a00NRSFgHsY
 JavaScript: Understanding the Weird Parts - The First 3.5 Hours   https://youtu.be/Bv_5Zv5c-Ts?t=370
 
