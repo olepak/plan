@@ -1,4 +1,6 @@
 ONGOING
+ref debug configuration
+
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#test-driven-development
              04
