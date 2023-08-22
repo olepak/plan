@@ -1,5 +1,5 @@
 ONGOING
-ref debug configuration
+Array methods
 
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#test-driven-development
@@ -7,9 +7,8 @@ https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
 https://www.youtube.com/watch?v=a00NRSFgHsY
 JavaScript: Understanding the Weird Parts - The First 3.5 Hours   https://youtu.be/Bv_5Zv5c-Ts?t=370
 
-  string + array methods
+String methods recall
 
-  https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
  &PENDING
 
 Taking on a FrontEndMentor.io challenge!https://youtu.be/K27WULzr2P8?t=2472
