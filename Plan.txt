@@ -1,6 +1,5 @@
 ONGOING
 string methods
-Quokka possibilities
 
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#test-driven-development
