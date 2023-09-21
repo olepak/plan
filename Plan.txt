@@ -1,6 +1,7 @@
 ONGOING
 string methods
 Quokka минин https://www.youtube.com/watch?v=l-zB8k582k8
+codewars tutorial
 
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#test-driven-development
