@@ -1,4 +1,6 @@
 ONGOING
+argument objects + rest parameters https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
+
 https://www.theodinproject.com/lessons/foundations-fundamentals-part-4
    https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#test-driven-development
              04
