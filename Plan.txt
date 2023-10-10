@@ -1,6 +1,6 @@
 ONGOING
 https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
- adding inline style https://domenlightenment.com/#6.2
+ editing attributes
 JavaScript: Understanding the Weird Parts - The First 3.5 Hours   https://youtu.be/Bv_5Zv5c-Ts?t=370
 
 
