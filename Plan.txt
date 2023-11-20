@@ -1,6 +1,7 @@
 ONGOING
+refresh methods
+refresh solutions codewars
 https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
-  https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#applying_css_and_javascript_to_html
   Exercises
 
 Math.methods
