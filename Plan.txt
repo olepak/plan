@@ -1,6 +1,6 @@
 ONGOING
-quokka logpoints  https://quokkajs.com/pro/
-refresh methods
+array methods copyWithin
+string methods
 refresh solutions codewars
 https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
   Exercises
