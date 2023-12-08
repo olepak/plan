@@ -1,5 +1,5 @@
 ONGOING
-array methods filter
+array methods flatMap
 string methods
 refresh solutions codewars
 https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
