@@ -1,5 +1,5 @@
 ONGOING
-array methods join
+array methods reduce
 string methods
 refresh solutions codewars
 https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
