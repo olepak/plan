@@ -1,6 +1,5 @@
 ONGOING
-array methods new methods as of 2023
-string methods
+string methods includes
 refresh solutions codewars
 https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
   Exercises
