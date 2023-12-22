@@ -1,5 +1,5 @@
 ONGOING
-string methods padEnd
+string methods search
 refresh solutions codewars
 https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
   Exercises
