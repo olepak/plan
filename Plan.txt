@@ -1,6 +1,5 @@
 ONGOING
-(...values) refresh
-Math.methods
+Math.methods math.floor https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 refresh solutions codewars
 
 https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
