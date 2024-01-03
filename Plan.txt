@@ -1,5 +1,4 @@
 ONGOING
-Math.methods math.sqrt https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
 refresh solutions codewars
 
 https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
