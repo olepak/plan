@@ -1,5 +1,5 @@
 ONGOING
-refresh solutions codewars
+https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/solutions/javascript
 
 https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
   Exercises
