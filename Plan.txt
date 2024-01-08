@@ -1,5 +1,5 @@
 ONGOING
-https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
+https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/javascript
 
   Exercises
 
