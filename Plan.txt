@@ -1,7 +1,6 @@
 ONGOING
-https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/javascript
 
-  Exercises
+DOM manipulation and events https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
 
 JavaScript: Understanding the Weird Parts - The First 3.5 Hours   https://youtu.be/Bv_5Zv5c-Ts?t=370
 
