@@ -1,6 +1,7 @@
 ONGOING
-
+Numbers https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
 DOM manipulation and events https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
+  Exercises
 
 JavaScript: Understanding the Weird Parts - The First 3.5 Hours   https://youtu.be/Bv_5Zv5c-Ts?t=370
 
