@@ -1,5 +1,5 @@
 ONGOING
-DOM manipulation and events https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
+Append elements https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events
   Exercises
 
 JavaScript: Understanding the Weird Parts - The First 3.5 Hours   https://youtu.be/Bv_5Zv5c-Ts?t=370
