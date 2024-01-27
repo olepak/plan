@@ -1,7 +1,6 @@
 ONGOING
 Asignment https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events#assignment
-
-Active leaning A dynamic shoppinglist https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#active_learning_a_dynamic_shopping_list
+https://www.javascripttutorial.net/javascript-dom/
 
 JavaScript: Understanding the Weird Parts - The First 3.5 Hours   https://youtu.be/Bv_5Zv5c-Ts?t=370
 
