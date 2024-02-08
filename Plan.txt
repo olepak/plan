@@ -1,4 +1,5 @@
 ONGOING
+Number object continue
 
 section2  https://www.javascripttutorial.net/javascript-dom/
 
