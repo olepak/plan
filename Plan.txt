@@ -1,7 +1,7 @@
 ONGOING
 Number object continue https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toExponential
 
-section2  https://www.javascripttutorial.net/javascript-dom/
+section2 https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript/
 
 Asignment https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events#assignment
 
