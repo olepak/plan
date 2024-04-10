@@ -1,5 +1,5 @@
 ONGOING
-Handling events in JavaScript https://www.javascripttutorial.net/javascript-dom/handling-events-in-javascript/
+Page load events https://www.javascripttutorial.net/javascript-dom/javascript-page-load-events/
 Assignment https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events#assignment
 
 JavaScript: Understanding the Weird Parts - The First 3.5 Hours   https://youtu.be/Bv_5Zv5c-Ts?t=370
