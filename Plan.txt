@@ -1,5 +1,5 @@
 ONGOING
-Detecting mouse buttons https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/
+Getting screen coordinates https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/
 Assignment https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events#assignment
 
 JavaScript: Understanding the Weird Parts - The First 3.5 Hours   https://youtu.be/Bv_5Zv5c-Ts?t=370
